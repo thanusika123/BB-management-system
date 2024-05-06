@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #dc3545;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+main {
+    margin: 20px;
+}
+
+section {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+h1, h2 {
+    color: #dc3545;
+}
+
+p {
+    margin: 5px 0;
+}
